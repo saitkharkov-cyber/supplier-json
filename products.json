@@ -1,5 +1,304 @@
 [
   {
+    "sku": "0109020066-100446501",
+    "url": "https://nc-clima.in.ua/ahu-kit",
+    "title": "Модуль управління до напівпромислових зовнійніх блоків NC clima",
+    "meta_description": "? Модуль управління AHU kit KA8142 дозволяє під’єднати зовнішній блок напівпромислових кондиціонерів NC clima та використовувати їх як компресорно-конденсаційний блок (ККБ) для приливно-витяжної установки (ПВУ). ?Дозволяє керувати зовнішнім інверторним бл",
+    "price": 21999,
+    "stock_status": "instock",
+    "categories": [
+      "Аксесуари"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/ahu-kit/55-1.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/56-1-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/60-1-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/57-1-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/58-1-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/59-1-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/ahu-kit/61-1-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0109020001-100445143",
+    "url": "https://nc-clima.in.ua/kjr-120n",
+    "title": "Дротовий пульт для систем кондиціонування NC clima",
+    "meta_description": "✅ Дротовий пульт для систем кондиціонування NC clima ✅ Настінний пульт для напівпромислових, мульти-спліт та побутових систем кондиціонування ✅ Універсальний пульт NC clima для кондиціонерів з підключення Wi-Fi модуля",
+    "price": 3999,
+    "stock_status": "instock",
+    "categories": [
+      "Аксесуари"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/pult-120n/59.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/pult-120p/62-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0109020001-100445142",
+    "url": "https://nc-clima.in.ua/kjr-120p",
+    "title": "Настінний пульт з дротовим підключенням для систем кондиціонування NC clima",
+    "meta_description": "✅ Дротовий пульт KJR-120P для систем кондиціювання NC clima ✅ Пульт керування для напівпромислових, мульти-спліт та побутових систем кондиціонування ✅ Настінний пульт NC clima з Wi-Fi",
+    "price": 7999,
+    "stock_status": "instock",
+    "categories": [
+      "Аксесуари"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/pult-120p/60.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/pult-120p/62-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0107020166-100446684",
+    "url": "https://nc-clima.in.ua/nc-001",
+    "title": "Дренажний насос NC clima NC-001 для систем кондиціонування",
+    "meta_description": "Дренажний насос NC clima для примусового відведення конденсату в кліматичних системах. Забезпечує стабільну роботу обладнання, коли неможливий самопливний дренаж.",
+    "price": 3999,
+    "stock_status": "instock",
+    "categories": [],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/drainage-pump/mute-box.png"
+    ]
+  },
+  {
+    "sku": "0107020266-100446796",
+    "url": "https://nc-clima.in.ua/nc-002",
+    "title": "Дренажний насос NC clima NC-002 для систем кондиціонування",
+    "meta_description": "????Дренажний насос NC clima для відведення конденсату у системах кондиціонування без природного ухилу. Стабільна робота обладнання навіть при монтажі вище рівня зливу.????",
+    "price": 4599,
+    "stock_status": "instock",
+    "categories": [],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/drainage-pump/mute-wedge.png"
+    ]
+  },
+  {
+    "sku": "0104010066-100446554",
+    "url": "https://nc-clima.in.ua/nc1000st6-0-230v",
+    "title": "Завіса повітряно-опалювальна (СТІЧ) 6 кВт NC clima Oxford - горизонтальний монтаж",
+    "meta_description": "✹ Повітряно-опалювальна завіса NC clima Oxford NC1000ST6.0-230V на 6 кВт для горизонтального монтажу ✹ Для забезпечення приміщень тепловим бар’єром і збереженням мікроклімату ✹ Гарантія 36 місяців",
+    "price": 10449,
+    "stock_status": "outofstock",
+    "categories": [
+      "Серія Oxford (СТІЧ)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/oxford/1000-6/2g7a3412.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3408-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3404-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3403-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3420-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3416-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3376-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3413-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3386-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3381-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3410-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3388-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446560",
+    "url": "https://nc-clima.in.ua/nc1000tn6-0-230v-400v",
+    "title": "Повітряна теплова завіса NC clima Newcastle 6 кВт з електричним ТЕНом",
+    "meta_description": "✅ Універсальна повітряна теплова завіса NC clima Newcastle 6 кВт з нагрівальним елементом ТЕН підходить для горизонтального та вертикального монтажу ✅ Ефективне зонування тепла для комерційних і побутових приміщень ✅ Гарантія три роки",
+    "price": 15999,
+    "stock_status": "outofstock",
+    "categories": [
+      "Серія Newcastle (ТЕН)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3450.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3442-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3430-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3441-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3456-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3457-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3455-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3433-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3476-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3463-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3468-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3482-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3492-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3509-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446555",
+    "url": "https://nc-clima.in.ua/nc1600st9-0-400v",
+    "title": "Теплова завіса з нагрівом (СТІЧ) 9 кВт NC clima серії Oxford - горизонтальний монтаж",
+    "meta_description": "✹ Повітряно-опалювальна завіса NC clima Oxford NC1600ST9.0-400V потужністю 9 кВт для горизонтального монтажу ✹ Для забезпечення приміщень тепловим бар’єром і збереженням мікроклімату ✹ Гарантія 36 місяців",
+    "price": 13999,
+    "stock_status": "outofstock",
+    "categories": [
+      "Серія Oxford (СТІЧ)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/oxford/1600-9/2g7a3427.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1600-9/2g7a3428-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1600-9/2g7a3422-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1600-9/2g7a3439-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1600-9/2g7a3436-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3376-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3413-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3381-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3386-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3410-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3388-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446562",
+    "url": "https://nc-clima.in.ua/nc1600tn12-0-400v",
+    "title": "Електрична повітряна завіса NC clima на 12 кВт з ТЕНом і універсальним монтажем",
+    "meta_description": "➔ Потужна повітряна теплова завіса NC clima Newcastle 12 кВт з електричним нагрівальним елементом ➔ Підходить для горизонтального або вертикального монтажу ➔ Ефективно захищає вхідні зони магазинів, офісів, торгових центрів і виробничих приміщень від холо",
+    "price": 24999,
+    "stock_status": "outofstock",
+    "categories": [
+      "Серія Newcastle (ТЕН)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3473.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3484-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3479-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3491-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3497-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3499-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3455-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3433-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3429-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3492-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3468-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3463-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3482-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3514-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446561",
+    "url": "https://nc-clima.in.ua/nc1600tn6-0-230v-400v",
+    "title": "Повітряна теплова завіса NC clima Newcastle із ТЕНом для вертикального та горизонтального монтажу",
+    "meta_description": "✷ Універсальна повітряна завіса NC clima Newcastle потужністю 6 кВт з електричним ТЕН-нагрівом ✷ Підходить для вертикального чи горизонтального встановлення ✷ Ідеальна для захисту входів у магазини, кафе, склади та інші приміщення",
+    "price": 23999,
+    "stock_status": "outofstock",
+    "categories": [
+      "Серія Newcastle (ТЕН)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3473.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3484-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3479-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3491-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3497-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3499-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3455-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3433-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3429-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3492-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3445-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3463-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3482-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1600-6-12/2g7a3514-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446553",
+    "url": "https://nc-clima.in.ua/nc800st3-0-230v",
+    "title": "Завіса повітряно-опалювальна на 3 кВт NC clima Oxford - горизонтальний монтаж",
+    "meta_description": "✹ Повітряно-опалювальна завіса NC clima Oxford NC800ST3.0-230V 3 кВт для горизонтального монтажу ✹ Підходить для приміщень із середнім трафіком, забезпечує тепловий бар’єр і збереження мікроклімату ✹ Гарантія 36 місяців",
+    "price": 7999,
+    "stock_status": "instock",
+    "categories": [
+      "Серія Oxford (СТІЧ)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/oxford/800-3/2g7a3382.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/800-3/2g7a3366-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/800-3/2g7a3373-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/800-3/2g7a3377-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/800-3/2g7a3384-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/800-3/2g7a3383-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3376-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3406-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3407-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3371-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3367-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3386-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/oxford/1000-6/2g7a3388-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0104010066-100446557",
+    "url": "https://nc-clima.in.ua/nc850tn6-0-230v-400v",
+    "title": "Повітряна завіса NC clima Newcastle на 6 кВт - Електрична завіса універсального монтажу",
+    "meta_description": "?Теплові завіси NC clima Newcastle призначені для встановлення у двірних отворах приміщення висотою до 3,5 м ?Електрична повітряна завіса на 6 кВт має нагрівальний елемент - ТЕН ?Універсальне встановлення - горизонтально та вертикально ?Гарантія 36 місяці",
+    "price": 14499,
+    "stock_status": "instock",
+    "categories": [
+      "Серія Newcastle (ТЕН)"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/povitryani-zavisy/newcastle/850-6/2g7a3461.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3466-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3464-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3449-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3469-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3470-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3455-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/850-6/2g7a3430-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3476-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3463-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3492-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3468-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3482-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3398-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/povitryani-zavisy/newcastle/1000-6/2g7a3509-1000x1000.webp"
+    ]
+  },
+  {
     "sku": "0108110066-100445844",
     "url": "https://nc-clima.in.ua/nccoi09eh1eu",
     "title": "Консольний внутрішній блок кондиціонера NCCOI09EH1eu",
@@ -135,7 +434,7 @@
     "title": "Підлогово-стельовий неінверторний кондиціонер NCCS48EH1eu/NO48EH3eu",
     "meta_description": "Підлогово-стельові спліт-системи NC clima до -7C використовуються у разі, коли потужності у звичайної спліт-системи недостатньо й немає можливості встановлення кондиціонера касетного типу.",
     "price": 85000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "Кондиціонери промислові"
     ],
@@ -166,7 +465,7 @@
     "title": "Підлогово-стельовий неінверторний кондиціонер NCCS60EH1eu/NO60EH3eu",
     "meta_description": "Підлогово-стельові спліт-системи NC clima до -7C використовуються у разі, коли потужності у звичайної спліт-системи недостатньо й немає можливості встановлення кондиціонера касетного типу.",
     "price": 97000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "Кондиціонери промислові"
     ],
@@ -1053,6 +1352,131 @@
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/eh3eu2-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/59-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/62-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110070066-100446914",
+    "url": "https://nc-clima.in.ua/nceh1100",
+    "title": "Електричний обігрівач NC clima NCEH1100 для припливно-витяжної установки NCMW1100w",
+    "meta_description": "",
+    "price": 13999,
+    "stock_status": "instock",
+    "categories": [
+      "Нагрівач для ПВУ"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/DSC01999.png"
+    ]
+  },
+  {
+    "sku": "0110070066-100446915",
+    "url": "https://nc-clima.in.ua/nceh1300",
+    "title": "Електричний обігрівач NC clima NCEH1300 для припливно-витяжної установки NCMW1300w",
+    "meta_description": "☀️ Електричний обігрівач NC clima NCEH1300 використовується з припливно-витяжною установкою NCMW1300w для ефективного підігріву повітря у вентиляційних системах. Забезпечує стабільну роботу ПВУ, запобігає переохолодженню припливного повітря та підвищує за",
+    "price": 16999,
+    "stock_status": "instock",
+    "categories": [
+      "Нагрівач для ПВУ"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/DSC01999.png"
+    ]
+  },
+  {
+    "sku": "0110070566-100446911",
+    "url": "https://nc-clima.in.ua/nceh350",
+    "title": "Електричний обігрівач NC clima NCEH350 для припливно-витяжної установки NCMW350w",
+    "meta_description": "☀️ Електричний обігрівач NC clima NCEH350 призначений для припливно-витяжної установки NCMW350w. Забезпечує ефективний підігрів припливного повітря та комфортний мікроклімат у приміщенні ",
+    "price": 10999,
+    "stock_status": "outofstock",
+    "categories": [
+      "Нагрівач для ПВУ"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/DSC01999.png"
+    ]
+  },
+  {
+    "sku": "0110070066-100446912",
+    "url": "https://nc-clima.in.ua/nceh500",
+    "title": "Електричний обігрівач NC clima NCEH500 для ПВУ (припливно- витяжна установка) NCMW500w",
+    "meta_description": "",
+    "price": 11999,
+    "stock_status": "instock",
+    "categories": [
+      "Нагрівач для ПВУ"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/DSC01999.png"
+    ]
+  },
+  {
+    "sku": "0110070066-100446913",
+    "url": "https://nc-clima.in.ua/nceh800",
+    "title": "Електричний обігрівач NC clima NCEH800 для вентиляційної установки NCMW800w",
+    "meta_description": "☀️ Електричний обігрівач NC clima NCEH800 розроблений для роботи з припливно-витяжною установкою NCMW800w. Забезпечує ефективний підігрів повітря, стабільну продуктивність вентиляційної системи та комфортний мікроклімат у приміщенні. Надійне рішення для с",
+    "price": 12999,
+    "stock_status": "instock",
+    "categories": [
+      "Нагрівач для ПВУ"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/DSC01999.png"
+    ]
+  },
+  {
+    "sku": "0105020066-100446509",
+    "url": "https://nc-clima.in.ua/nchc-1500ua",
+    "title": "Механічний конвектор NC clima NCHC-1500UA",
+    "meta_description": "▶▶▶ Електричний конвектор NCHC-1500UA ◀◀◀ серія керамічних конвекторів ☑ відомий корейський бренд NC clima™ потужність 1,5 кВт - до 15 квадратів ☀ доставка 1-3 дні по Україні ☆",
+    "price": 2499,
+    "stock_status": "instock",
+    "categories": [
+      "Електричні конвектори"
+    ],
+    "attributes": {
+      "pa_square": "12",
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/konvektor/1500/1500(1).png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/konvektor/1500/1500-1(1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/konvektor/1500/rodastandardrsp1500eu-5-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0105020066-100446510",
+    "url": "https://nc-clima.in.ua/nchc-2000ua",
+    "title": "Механічний конвектор NC clima NCHC-2000UA",
+    "meta_description": "▶▶▶ Електричний конвектор NCHC-2000UA ◀◀◀ серія керамічних конвекторів ☑ відомий корейський бренд NC clima™ потужність 2 кВт - до 20 квадратів ☀ доставка 1-3 дні по Україні ☆",
+    "price": 2699,
+    "stock_status": "outofstock",
+    "categories": [
+      "Електричні конвектори"
+    ],
+    "attributes": {
+      "pa_square": "18",
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/konvektor/2000/2000(1).png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/konvektor/2000/2000-1(1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/konvektor/1500/rodastandardrsp1500eu-5-1000x1000.webp"
     ]
   },
   {
@@ -2883,7 +3307,7 @@
     "title": "Зовнішній блок кондиціонера NCI2M18EFIeu мультиспліт системи",
     "meta_description": "NC clima NCI2M18EFIeu - Зовнішній блок мульти-спліт системи, купити на офіційному сайті NC clima",
     "price": 44999,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "Мульти-спліт"
     ],
@@ -3007,6 +3431,111 @@
       "https://nc-clima.in.ua/image/catalog/z-b-multi-split/61.jpg",
       "https://nc-clima.in.ua/image/cache/webp/catalog/z-b-multi-split/64-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/z-b-multi-split/62-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110010066-100446908",
+    "url": "https://nc-clima.in.ua/ncmw1100w",
+    "title": "Припливно-витяжна установка NC clima NCMW1100w з рекуперацією",
+    "meta_description": "✔ Припливно-витяжна установка NC clima NCMW1100w з високоефективним рекуператором забезпечує постійний приплив свіжого повітря та відведення відпрацьованого. ✔ Енергоощадна вентиляція для квартир, будинків і комерційних приміщень. ✔",
+    "price": 68999,
+    "stock_status": "instock",
+    "categories": [
+      "Припливно-витяжні установки"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/ERV%20(3).jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (9)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/ERV (7)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (4)-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110010066-100446909",
+    "url": "https://nc-clima.in.ua/ncmw1300w",
+    "title": "Припливно-витяжна установка NC clima NCMW1300w з рекуперацією",
+    "meta_description": "✔ Припливно-витяжна установка NC clima NCMW1300w з високоефективним рекуператором забезпечує постійний приплив свіжого повітря та відведення відпрацьованого. ✔ Енергоощадна вентиляція для квартир, будинків і комерційних приміщень. ✔",
+    "price": 75999,
+    "stock_status": "instock",
+    "categories": [
+      "Припливно-витяжні установки"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/ERV%20(3).jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (9)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (4)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/ERV (7)-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110010066-100446897",
+    "url": "https://nc-clima.in.ua/ncmw350w",
+    "title": "Припливно-витяжна установка NC clima NCMW350w з рекуперацією",
+    "meta_description": "✔ Припливно-витяжна установка NC clima NCMW350w з високоефективним рекуператором забезпечує постійний приплив свіжого повітря та відведення відпрацьованого. ✔ Енергоощадна вентиляція для квартир, будинків і комерційних приміщень. ✔",
+    "price": 38999,
+    "stock_status": "instock",
+    "categories": [
+      "Припливно-витяжні установки"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/ERV%20(3).jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (9)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (4)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/ERV (7)-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110010066-100446898",
+    "url": "https://nc-clima.in.ua/ncmw500w",
+    "title": "Припливно-витяжна установка NC clima NCMW500w з рекуперацією",
+    "meta_description": "✔ Припливно-витяжна установка NC clima NCMW500w з високоефективним рекуператором забезпечує постійний приплив свіжого повітря та відведення відпрацьованого. ✔ Енергоощадна вентиляція для квартир, будинків і комерційних приміщень. ✔",
+    "price": 43999,
+    "stock_status": "instock",
+    "categories": [
+      "Припливно-витяжні установки"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/ERV%20(3).jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (9)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/ERV (7)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (4)-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110010066-100446905",
+    "url": "https://nc-clima.in.ua/ncmw800w",
+    "title": "Припливно-витяжна установка NC clima NCMW800w з рекуперацією",
+    "meta_description": "✔ Припливно-витяжна установка NC clima NCMW800w з високоефективним рекуператором забезпечує постійний приплив свіжого повітря та відведення відпрацьованого. ✔ Енергоощадна вентиляція для квартир, будинків і комерційних приміщень. ✔",
+    "price": 61999,
+    "stock_status": "instock",
+    "categories": [
+      "Припливно-витяжні установки"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/ahu/ERV%20(3).jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (9)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (4)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/TF (1)-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/ahu/ERV (7)-1000x1000.webp"
     ]
   },
   {
@@ -3505,6 +4034,65 @@
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kasetnyi/55-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/eh3eu2-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kasetnyi/64-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0110070066-100446916",
+    "url": "https://nc-clima.in.ua/nwf-06",
+    "title": "Модуль керування NC clima NWF-06 для припливно-витяжної установки (ПВУ)",
+    "meta_description": "✔️ Модуль керування NC clima NWF-06 призначений для налаштування та контролю роботи припливно-витяжної установки (ПВУ). Забезпечує зручне керування параметрами вентиляційної системи, оптимізацію режимів роботи та підвищення енергоефективності. Підходить д",
+    "price": 1599,
+    "stock_status": "instock",
+    "categories": [
+      "Wi-Fi Модулі"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/wi-fimodule/nwf-06.jpg"
+    ]
+  },
+  {
+    "sku": "0105000001-100434314",
+    "url": "https://nc-clima.in.ua/smart-port-lcac-01",
+    "title": "Конектор для Wi-Fi модуля NWF-01 NC clima",
+    "meta_description": "✅ Конектор Smart port - Wi-Fi керування напівпромислових систем ✅ Перехідник Smart port для Wi-Fi модуля NWF-01 NC clima ✅ Віддалений контроль напівпромислових систем зі смартфона",
+    "price": 2000,
+    "stock_status": "instock",
+    "categories": [
+      "Аксесуари"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/smart-port/56.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/smart-port/55-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/smart-port/58-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/smart-port/57-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/smart-port/55(2)-1000x1000.webp"
+    ]
+  },
+  {
+    "sku": "0101070501-100442730",
+    "url": "https://nc-clima.in.ua/wf-01",
+    "title": "Wi-Fi модуль до кондиціонера NC clima NWF-01",
+    "meta_description": "Смарт модуль NWF-01 NC clima кондиціонера – це опція, що дозволяє управляти кондиціонером дистанційно з мобільного телефону за допомогою Wi-Fi мережі.",
+    "price": 999,
+    "stock_status": "instock",
+    "categories": [
+      "Wi-Fi Модулі"
+    ],
+    "attributes": {
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/accessories/wi-fimodule/nwf01-5.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-2-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-3-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-4-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-1-1000x1000.webp"
     ]
   }
 ]
