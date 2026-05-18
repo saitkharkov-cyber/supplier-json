@@ -65,7 +65,9 @@
     "meta_description": "Дренажний насос NC clima для примусового відведення конденсату в кліматичних системах. Забезпечує стабільну роботу обладнання, коли неможливий самопливний дренаж.",
     "price": 3999,
     "stock_status": "instock",
-    "categories": [],
+    "categories": [
+      "Аксесуари"
+    ],
     "attributes": {
       "pa_brands": "NC clima"
     },
@@ -80,7 +82,9 @@
     "meta_description": "????Дренажний насос NC clima для відведення конденсату у системах кондиціонування без природного ухилу. Стабільна робота обладнання навіть при монтажі вище рівня зливу.????",
     "price": 4599,
     "stock_status": "instock",
-    "categories": [],
+    "categories": [
+      "Аксесуари"
+    ],
     "attributes": {
       "pa_brands": "NC clima"
     },
@@ -96,7 +100,7 @@
     "price": 10449,
     "stock_status": "outofstock",
     "categories": [
-      "Серія Oxford (СТІЧ)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -125,7 +129,7 @@
     "price": 15999,
     "stock_status": "outofstock",
     "categories": [
-      "Серія Newcastle (ТЕН)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -156,7 +160,7 @@
     "price": 13999,
     "stock_status": "outofstock",
     "categories": [
-      "Серія Oxford (СТІЧ)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -184,7 +188,7 @@
     "price": 24999,
     "stock_status": "outofstock",
     "categories": [
-      "Серія Newcastle (ТЕН)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -215,7 +219,7 @@
     "price": 23999,
     "stock_status": "outofstock",
     "categories": [
-      "Серія Newcastle (ТЕН)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -246,7 +250,7 @@
     "price": 7999,
     "stock_status": "instock",
     "categories": [
-      "Серія Oxford (СТІЧ)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -275,7 +279,7 @@
     "price": 14499,
     "stock_status": "instock",
     "categories": [
-      "Серія Newcastle (ТЕН)"
+      "Повітряні завіси"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -306,7 +310,7 @@
     "price": 18499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -339,7 +343,7 @@
     "price": 19999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -372,7 +376,7 @@
     "price": 21999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -405,7 +409,7 @@
     "price": 76000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -436,7 +440,7 @@
     "price": 85000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -467,7 +471,7 @@
     "price": 97000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -498,7 +502,7 @@
     "price": 68000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "52",
@@ -534,7 +538,7 @@
     "price": 84000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -570,7 +574,7 @@
     "price": 119000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "105",
@@ -606,7 +610,7 @@
     "price": 131000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "140",
@@ -642,7 +646,7 @@
     "price": 0,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "140",
@@ -676,7 +680,7 @@
     "price": 150000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -712,7 +716,7 @@
     "price": 150000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -746,7 +750,7 @@
     "price": 235000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -765,7 +769,7 @@
     "price": 332000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -784,7 +788,7 @@
     "price": 370000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -803,7 +807,7 @@
     "price": 189000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -822,7 +826,7 @@
     "price": 212000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -841,7 +845,7 @@
     "price": 16000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -878,7 +882,7 @@
     "price": 52000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -921,7 +925,7 @@
     "price": 18000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -958,7 +962,7 @@
     "price": 66000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "52",
@@ -1001,7 +1005,7 @@
     "price": 21000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -1038,7 +1042,7 @@
     "price": 80000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -1081,7 +1085,7 @@
     "price": 39000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "105",
@@ -1118,7 +1122,7 @@
     "price": 119000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "105",
@@ -1161,7 +1165,7 @@
     "price": 45000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "140",
@@ -1198,7 +1202,7 @@
     "price": 134000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "140",
@@ -1241,7 +1245,7 @@
     "price": 54000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "175",
@@ -1278,7 +1282,7 @@
     "price": 153000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -1321,7 +1325,7 @@
     "price": 153000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -1362,7 +1366,7 @@
     "price": 13999,
     "stock_status": "instock",
     "categories": [
-      "Нагрівач для ПВУ"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -1379,7 +1383,7 @@
     "price": 16999,
     "stock_status": "instock",
     "categories": [
-      "Нагрівач для ПВУ"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -1396,7 +1400,7 @@
     "price": 10999,
     "stock_status": "outofstock",
     "categories": [
-      "Нагрівач для ПВУ"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -1413,7 +1417,7 @@
     "price": 11999,
     "stock_status": "instock",
     "categories": [
-      "Нагрівач для ПВУ"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -1430,7 +1434,7 @@
     "price": 12999,
     "stock_status": "instock",
     "categories": [
-      "Нагрівач для ПВУ"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -1447,7 +1451,7 @@
     "price": 2499,
     "stock_status": "instock",
     "categories": [
-      "Електричні конвектори"
+      "Конвектори"
     ],
     "attributes": {
       "pa_square": "12",
@@ -1467,7 +1471,7 @@
     "price": 2699,
     "stock_status": "outofstock",
     "categories": [
-      "Електричні конвектори"
+      "Конвектори"
     ],
     "attributes": {
       "pa_square": "18",
@@ -1551,7 +1555,7 @@
     "price": 8999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 20",
@@ -1561,8 +1565,13 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-02.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/72.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -1583,13 +1592,19 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-01.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-02-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3138-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3198-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3166-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-04-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/collage-derby.png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/72-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/25-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/26-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/28-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/27-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/50-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -1631,7 +1646,7 @@
     "price": 9499,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 20",
@@ -1688,7 +1703,7 @@
     "price": 8500,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 20",
@@ -1714,7 +1729,7 @@
     "price": 10999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -1772,7 +1787,7 @@
     "price": 11499,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -1797,7 +1812,7 @@
     "price": 24999,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5 до -25 °C"
+      "Побутові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -1826,7 +1841,7 @@
     "price": 9499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -1836,8 +1851,13 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-02.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/72.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -1858,13 +1878,19 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-01.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-02-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3138-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3198-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3166-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-04-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/collage-derby.png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/72-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/25-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/26-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/28-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/27-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/50-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -1875,7 +1901,7 @@
     "price": 12499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -1965,7 +1991,7 @@
     "price": 9999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -2022,7 +2048,7 @@
     "price": 14999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -2081,7 +2107,7 @@
     "price": 9000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 25",
@@ -2107,7 +2133,7 @@
     "price": 11999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2165,7 +2191,7 @@
     "price": 12499,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2190,7 +2216,7 @@
     "price": 26999,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5 до -25 °C"
+      "Побутові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2219,7 +2245,7 @@
     "price": 10499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2229,8 +2255,13 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-02.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/72.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -2251,13 +2282,19 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-01.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-02-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3138-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3198-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3166-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-04-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/collage-derby.png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/72-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/25-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/26-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/28-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/27-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/50-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -2268,7 +2305,7 @@
     "price": 13499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2358,7 +2395,7 @@
     "price": 10999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2443,7 +2480,7 @@
     "price": 15999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2502,7 +2539,7 @@
     "price": 10000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -2528,7 +2565,7 @@
     "price": 17999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2586,7 +2623,7 @@
     "price": 18499,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2611,7 +2648,7 @@
     "price": 43999,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5 до -25 °C"
+      "Побутові кондиціонери"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2640,7 +2677,7 @@
     "price": 12999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2650,8 +2687,13 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-02.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/72.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -2672,13 +2714,19 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-01.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-02-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3138-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3198-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3166-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-04-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/collage-derby.png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/72-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/25-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/26-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/28-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/27-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/50-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -2689,7 +2737,7 @@
     "price": 19499,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2779,7 +2827,7 @@
     "price": 13499,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2836,7 +2884,7 @@
     "price": 21999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2895,7 +2943,7 @@
     "price": 12000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -2921,7 +2969,7 @@
     "price": 19999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -2979,7 +3027,7 @@
     "price": 22999,
     "stock_status": "outofstock",
     "categories": [
-      "Birmingham 2.5"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3032,7 +3080,7 @@
     "price": 16999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3042,8 +3090,13 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-02.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/72.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -3064,13 +3117,19 @@
       "pa_brands": "NC clima"
     },
     "images": [
-      "https://nc-clima.in.ua/image/catalog/rac/derby/derby-01.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-02-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-03-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3138-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3198-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/birmingham/8t5a3166-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/derby-04-1000x1000.webp"
+      "https://nc-clima.in.ua/image/catalog/rac/derby/collage-derby.png",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/72-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/73-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/75-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/74-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/69-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/70-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/25-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/26-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/28-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/27-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/50-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/rac/derby/118-1000x1000.webp"
     ]
   },
   {
@@ -3081,7 +3140,7 @@
     "price": 23999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3171,7 +3230,7 @@
     "price": 16999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3228,7 +3287,7 @@
     "price": 26999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3287,7 +3346,7 @@
     "price": 39999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3309,7 +3368,7 @@
     "price": 44999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3331,7 +3390,7 @@
     "price": 52999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3353,7 +3412,7 @@
     "price": 59999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3375,7 +3434,7 @@
     "price": 63999,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3397,7 +3456,7 @@
     "price": 84999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3419,7 +3478,7 @@
     "price": 90999,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_invertor": "Так",
@@ -3441,7 +3500,7 @@
     "price": 68999,
     "stock_status": "instock",
     "categories": [
-      "Припливно-витяжні установки"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -3462,7 +3521,7 @@
     "price": 75999,
     "stock_status": "instock",
     "categories": [
-      "Припливно-витяжні установки"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -3483,7 +3542,7 @@
     "price": 38999,
     "stock_status": "instock",
     "categories": [
-      "Припливно-витяжні установки"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -3504,7 +3563,7 @@
     "price": 43999,
     "stock_status": "instock",
     "categories": [
-      "Припливно-витяжні установки"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -3525,7 +3584,7 @@
     "price": 61999,
     "stock_status": "instock",
     "categories": [
-      "Припливно-витяжні установки"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -3546,7 +3605,7 @@
     "price": 77000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -3576,7 +3635,7 @@
     "price": 89000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -3606,7 +3665,7 @@
     "price": 101000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_invertor": "Ні",
@@ -3636,7 +3695,7 @@
     "price": 18000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -3665,7 +3724,7 @@
     "price": 57000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 35",
@@ -3698,7 +3757,7 @@
     "price": 20000,
     "stock_status": "outofstock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "52",
@@ -3727,7 +3786,7 @@
     "price": 71000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "52",
@@ -3761,7 +3820,7 @@
     "price": 23000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3790,7 +3849,7 @@
     "price": 87000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "до 70",
@@ -3823,7 +3882,7 @@
     "price": 35000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "105",
@@ -3852,7 +3911,7 @@
     "price": 120000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "105",
@@ -3886,7 +3945,7 @@
     "price": 47000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "140",
@@ -3915,7 +3974,7 @@
     "price": 141000,
     "stock_status": "instock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "140",
@@ -3949,7 +4008,7 @@
     "price": 50000,
     "stock_status": "instock",
     "categories": [
-      "Мульти-спліт"
+      "Мульти-спліт системи"
     ],
     "attributes": {
       "pa_square": "175",
@@ -3978,7 +4037,7 @@
     "price": 154000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -4012,7 +4071,7 @@
     "price": 154000,
     "stock_status": "outofstock",
     "categories": [
-      "Кондиціонери промислові"
+      "Напівпромислові кондиціонери"
     ],
     "attributes": {
       "pa_square": "175",
@@ -4044,7 +4103,7 @@
     "price": 1599,
     "stock_status": "instock",
     "categories": [
-      "Wi-Fi Модулі"
+      "ПВУ"
     ],
     "attributes": {
       "pa_brands": "NC clima"
@@ -4082,7 +4141,7 @@
     "price": 999,
     "stock_status": "instock",
     "categories": [
-      "Wi-Fi Модулі"
+      "Аксесуари"
     ],
     "attributes": {
       "pa_brands": "NC clima"
