@@ -384,7 +384,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "17000",
+      "pa_potuzhnist": "17",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -417,7 +417,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -449,7 +449,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -481,7 +481,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -588,7 +588,7 @@
       "pa_square": "105",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -625,7 +625,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -662,7 +662,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -697,7 +697,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -734,7 +734,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -768,7 +768,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "120000"
+      "pa_potuzhnist": "120"
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
@@ -788,7 +788,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "150000"
+      "pa_potuzhnist": "150"
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
@@ -808,7 +808,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "200000"
+      "pa_potuzhnist": "200"
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
@@ -828,7 +828,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "76000"
+      "pa_potuzhnist": "76"
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
@@ -848,7 +848,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "96000"
+      "pa_potuzhnist": "96"
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
@@ -1111,7 +1111,7 @@
       "pa_square": "105",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1149,7 +1149,7 @@
       "pa_square": "105",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1192,7 +1192,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1230,7 +1230,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1273,7 +1273,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1311,7 +1311,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1355,7 +1355,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -1887,7 +1887,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "9500",
+      "pa_potuzhnist": "9.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2012,7 +2012,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "9500",
+      "pa_potuzhnist": "9.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2043,7 +2043,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "9500",
+      "pa_potuzhnist": "9.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2102,7 +2102,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "10000",
+      "pa_potuzhnist": "10",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2130,7 +2130,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "10000",
+      "pa_potuzhnist": "10",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2163,7 +2163,7 @@
       "pa_square": "до 25",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "9500",
+      "pa_potuzhnist": "9.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2305,7 +2305,7 @@
       "pa_square": "до 35",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "12500",
+      "pa_potuzhnist": "12.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2385,7 +2385,7 @@
     "title": "Кондиціонер NC clima Liverpool NCI12EHLIw1eu/NCO12EHLIw1eu",
     "meta_description": "▶ Купити спліт-систему NC clima Liverpool NCI/NCO12EHLIw1eu ❄новинка 2023 року ✔інверторне управління ★обігрів до -23С ☀озонобезпечний фреон R32 ☑ доставка безкоштовна до 3 днів ϟ гарантія від виробника 2 роки",
     "price": 27999,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "pobutovi-kondytsionery",
       "invertorni",
@@ -2461,7 +2461,7 @@
       "pa_square": "до 35",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "12500",
+      "pa_potuzhnist": "12.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2563,7 +2563,7 @@
       "pa_square": "до 35",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "12500",
+      "pa_potuzhnist": "12.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2591,7 +2591,7 @@
       "pa_square": "до 35",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "12500",
+      "pa_potuzhnist": "12.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2624,7 +2624,7 @@
       "pa_square": "до 35",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "12500",
+      "pa_potuzhnist": "12.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2766,7 +2766,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "18500",
+      "pa_potuzhnist": "18.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2922,7 +2922,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "18500",
+      "pa_potuzhnist": "18.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -2981,7 +2981,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "18600",
+      "pa_potuzhnist": "18.6",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3009,7 +3009,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "18600",
+      "pa_potuzhnist": "18.6",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3042,7 +3042,7 @@
       "pa_square": "52",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "18500",
+      "pa_potuzhnist": "18.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3183,7 +3183,7 @@
       "pa_square": "до 70",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "24500",
+      "pa_potuzhnist": "24.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3339,7 +3339,7 @@
       "pa_square": "до 70",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "24500",
+      "pa_potuzhnist": "24.5",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3398,7 +3398,7 @@
       "pa_square": "до 70",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "25000",
+      "pa_potuzhnist": "25",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3426,7 +3426,7 @@
       "pa_square": "до 70",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "25000",
+      "pa_potuzhnist": "25",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3451,14 +3451,14 @@
     "title": "Зовнішній блок кондиціонера NCI2M15EFIeu мультиспліт системи",
     "meta_description": "NC clima NCI2M15EFIeu - Зовнішній блок мульти-спліт системи, купити на офіційному сайті NC clima",
     "price": 39999,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "multy-split-systemy"
     ],
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "14000",
+      "pa_potuzhnist": "14",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3502,7 +3502,7 @@
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "21000",
+      "pa_potuzhnist": "21",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3524,7 +3524,7 @@
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "27000",
+      "pa_potuzhnist": "27",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3546,7 +3546,7 @@
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "28000",
+      "pa_potuzhnist": "28",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3568,7 +3568,7 @@
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3590,7 +3590,7 @@
     "attributes": {
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "42000",
+      "pa_potuzhnist": "42",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3613,7 +3613,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "38000",
+      "pa_potuzhnist": "38",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3644,7 +3644,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3675,7 +3675,7 @@
     "attributes": {
       "pa_invertor": "Ні",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3896,7 +3896,7 @@
       "pa_square": "105",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3917,7 +3917,7 @@
     "title": "Касетний інверторний кондиціонер NCTSI36EH1eu/NOI36EH3eu/NCP-24-60EHeu",
     "meta_description": "Інверторний кондиціонер NC clima NCTSI36EH1eu/NOI36EH3eu/NCP-24-60EHeu на офіційному сайт ТМ НС кліма\r\n✅ Потужність 10,55 кВт ✅ Тип: Касетний ✅ R32 Фреон ✅ Офіційна гарантія 24 місяці",
     "price": 120000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "kasetni"
@@ -3926,7 +3926,7 @@
       "pa_square": "105",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "36000",
+      "pa_potuzhnist": "36",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3960,7 +3960,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -3990,7 +3990,7 @@
       "pa_square": "140",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "48000",
+      "pa_potuzhnist": "48",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -4024,7 +4024,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -4054,7 +4054,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
@@ -4089,7 +4089,7 @@
       "pa_square": "175",
       "pa_invertor": "Так",
       "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60000",
+      "pa_potuzhnist": "60",
       "pa_brands": "NC clima"
     },
     "images": [
