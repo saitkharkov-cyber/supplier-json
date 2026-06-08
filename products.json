@@ -376,7 +376,7 @@
     "title": "Внутрішній блок консольного типу NCCOI18EH1eu",
     "meta_description": "Консольні внутрішні блоки NCCOI18EH1eu забезпечують рівномірний розподіл обробленого потоку повітря в приміщенні, спрямовуючи потужний потік обробленого повітря вздовж стін по 4 напрямкам.",
     "price": 21999,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -780,7 +780,7 @@
     "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
     "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
     "price": 332000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "napivpromyslovi",
       "kanalni"
@@ -800,7 +800,7 @@
     "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
     "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
     "price": 370000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "napivpromyslovi",
       "kanalni"
@@ -1022,7 +1022,7 @@
     "title": "NC clima NCDSI24EH1eu - Внутрішній блок канального типу",
     "meta_description": "Купити NC clima NCDSI24EH1eu - Канальний внутрішній блок мульти-спліт системи НС кліма на офіційному сайті",
     "price": 21000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -1059,7 +1059,7 @@
     "title": "Канальний інверторний кондиціонер NCDSI24EH1eu/NOI24EH1eu",
     "meta_description": "Кондиціонер неінверторний NC clima NCDSI24EH1eu/NOI24EH1eu купити на офіційному сайт ТМ НС кліма\r\n✅ Потужність 7,88 кВт ✅ Тип: Канальний  ✅ Офіційна гарантія 24 місяці ✅ Вбудований дренажний насос",
     "price": 80000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "napivpromyslovi",
       "kanalni"
@@ -3605,7 +3605,7 @@
     "title": "Касетний неінверторний кондиціонер NCTS36EH1eu/NO36EH3eu/NCP-24-60AHeu",
     "meta_description": "Касетні кондиціонери NC clima на -7°С добре підходять для використання в об'ємних нежилих приміщеннях громадського призначення з високими стелями, особливо там, де важливо зберегти дизайн: в магазинах, офісах, конференц-залах, ресторанах.",
     "price": 77000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "kasetni"
@@ -3761,7 +3761,7 @@
     "title": "NC clima NCTSI18EH1eu - Внутрішній блок касетного типу",
     "meta_description": "Придбати NC clima NCTSI18EH1eu - Касетний внутрішній блок мульти-спліт системи на офіційному сайті NC clima в Україні.",
     "price": 20000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -3790,7 +3790,7 @@
     "title": "Касетний інверторний кондиціонер NCTSI18EH1eu/NOI18EH1eu/NCP-12-18EHeu",
     "meta_description": "Інверторний кондиціонер NC clima NCTSI18EH1eu/NOI18EH1eu/NCP-12-18EHeu на офіційному сайт ТМ НС кліма\r\n✅ Потужність 5,28 кВт ✅ Тип: Касетний ✅ R32 Фреон ✅ Офіційна гарантія 24 місяці",
     "price": 71000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "kasetni"
@@ -3825,7 +3825,7 @@
     "title": "NC clima NCTSI24EH1eu - Внутрішній блок касетного типу",
     "meta_description": "Придбати NC clima NCTSI24EH1eu - Касетний внутрішній блок мульти-спліт системи на офіційному сайті NC clima в Україні.",
     "price": 23000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "multy-split-systemy"
     ],
