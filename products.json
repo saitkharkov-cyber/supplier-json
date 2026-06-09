@@ -473,7 +473,7 @@
     "title": "Підлогово-стельовий неінверторний кондиціонер NCCS60EH1eu/NO60EH3eu",
     "meta_description": "Підлогово-стельові спліт-системи NC clima до -7C використовуються у разі, коли потужності у звичайної спліт-системи недостатньо й немає можливості встановлення кондиціонера касетного типу.",
     "price": 97000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "pidlogovo-steliovi"
@@ -840,7 +840,7 @@
     "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
     "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
     "price": 212000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "kanalni"
@@ -2555,7 +2555,7 @@
     "title": "NC clima NCI12EHSIw1eu |  Внутрішній блок мульти-спліт системи",
     "meta_description": "➤➤➤ Внутрішній блок настінного типу NCI12EHSIw1eu ☑ англійський бренд NC clima™ потужність від 2 до 5 кВт ☀ обігрів та охолодження ✔ фірмова гарантія ✶ офіційний представник в Україні ❄",
     "price": 15999,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -2616,7 +2616,7 @@
     "title": "Внутрішній блок NC clima NCI12EMMIw1eu",
     "meta_description": "☑ Внутрішній блок настінного типу NCI12EMMIw1eu ❄ торговельна марка з Великої Британії NC clima™ офіційний представник в Україні ✔ робота на обігрів до -23 ☀ мульти спліт система на 5 внутрішніх блоків ✶",
     "price": 10000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -2846,7 +2846,7 @@
     "title": "Кондиціонер NC clima Liverpool NCI18EHLIw1eu/NCO18EHLIw1eu",
     "meta_description": "▶ Купити спліт-систему NC clima Liverpool NCI/NCO18EHLIw1eu ❄новинка 2023 року ✔інверторне управління ★обігрів до -23С ☀озонобезпечний фреон R32 ☑ доставка безкоштовна до 3 днів ϟ гарантія від виробника 2 роки",
     "price": 44999,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "pobutovi-kondytsionery",
       "invertorni",
@@ -4146,11 +4146,11 @@
     ]
   },
   {
-    "sku": "0101070501-100442730",
+    "sku": "0101070501-100439345",
     "url": "https://nc-clima.in.ua/wf-01",
     "title": "Wi-Fi модуль до кондиціонера NC clima NWF-01",
     "meta_description": "Смарт модуль NWF-01 NC clima кондиціонера – це опція, що дозволяє управляти кондиціонером дистанційно з мобільного телефону за допомогою Wi-Fi мережі.",
-    "price": 999,
+    "price": 1299,
     "stock_status": "instock",
     "categories": [
       "vytratni-materialy-i-aksesuary"
@@ -4160,10 +4160,10 @@
     },
     "images": [
       "https://nc-clima.in.ua/image/catalog/accessories/wi-fimodule/nwf01-5.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-2-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-1-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-3-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-4-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-1-1000x1000.webp"
+      "https://nc-clima.in.ua/image/cache/webp/catalog/accessories/wi-fimodule/nwf01-2-1000x1000.webp"
     ]
   }
 ]
