@@ -436,6 +436,38 @@
     ]
   },
   {
+    "sku": "0109140001-100446470",
+    "url": "https://nc-clima.in.ua/nccs48eh1eu-no48eh3eu",
+    "title": "Підлогово-стельовий неінверторний кондиціонер NCCS48EH1eu/NO48EH3eu",
+    "meta_description": "Підлогово-стельові спліт-системи NC clima до -7C використовуються у разі, коли потужності у звичайної спліт-системи недостатньо й немає можливості встановлення кондиціонера касетного типу.",
+    "price": 85000,
+    "stock_status": "instock",
+    "categories": [
+      "napivpromyslovi",
+      "pidlogovo-steliovi"
+    ],
+    "attributes": {
+      "pa_invertor": "Ні",
+      "pa_typ": "Спліт-система",
+      "pa_potuzhnist": "48",
+      "pa_brands": "NC clima"
+    },
+    "images": [
+      "https://nc-clima.in.ua/image/catalog/lcac/napolno-potolochyi/kolazhnclcacceilingoubig.jpg",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/14-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/17-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/16-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/18-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/19-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/20-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/21-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/15-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/7-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/9-1000x1000.webp",
+      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/8-1000x1000.webp"
+    ]
+  },
+  {
     "sku": "0109140001-100446471",
     "url": "https://nc-clima.in.ua/nccs60eh1eu-no60eh3eu",
     "title": "Підлогово-стельовий неінверторний кондиціонер NCCS60EH1eu/NO60EH3eu",
