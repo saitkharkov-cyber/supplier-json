@@ -376,7 +376,7 @@
     "title": "Внутрішній блок консольного типу NCCOI18EH1eu",
     "meta_description": "Консольні внутрішні блоки NCCOI18EH1eu забезпечують рівномірний розподіл обробленого потоку повітря в приміщенні, спрямовуючи потужний потік обробленого повітря вздовж стін по 4 напрямкам.",
     "price": 21999,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "multy-split-systemy"
     ],
@@ -720,387 +720,6 @@
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/9-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/8-1000x1000.webp",
       "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/64-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0109141166-100446822",
-    "url": "https://nc-clima.in.ua/nccsi60eh1eu-noi60eh3eu2",
-    "title": "Підлогово-стельовий інверторний кондиціонер NCCSI60EH1eu/NOI60EH3eu2",
-    "meta_description": "Кондиціонер інверторний NC clima NCCSI60EH1eu/NOI60EH3eu2 купити на офіційному сайт ТМ НС кліма\r\n✅ Потужність 16,9 кВт ✅ Тип: Підлогово-стельовий ✅ Офіційна гарантія 24 місяці",
-    "price": 150000,
-    "stock_status": "outofstock",
-    "categories": [
-      "napivpromyslovi",
-      "pidlogovo-steliovi"
-    ],
-    "attributes": {
-      "pa_square": "175",
-      "pa_invertor": "Так",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "60",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/napolno-potolochyi/collage-floor-to-ceiling-eu2.png",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/14-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/17-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/16-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/18-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/19-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/20-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/21-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/15-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/22-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/23-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/55-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/140-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/142-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/141-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/144-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/napolno-potolochyi/64-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0109090001-100445499",
-    "url": "https://nc-clima.in.ua/ncds120ah1me-no120ah3e",
-    "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
-    "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
-    "price": 235000,
-    "stock_status": "outofstock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_invertor": "Ні",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "120"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
-    ]
-  },
-  {
-    "sku": "0109090001-100445500",
-    "url": "https://nc-clima.in.ua/ncds150ah1me-no150ah3e",
-    "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
-    "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
-    "price": 332000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_invertor": "Ні",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "150"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
-    ]
-  },
-  {
-    "sku": "0109090001-100445501",
-    "url": "https://nc-clima.in.ua/ncds200ah1me-no200ah3e",
-    "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
-    "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
-    "price": 370000,
-    "stock_status": "outofstock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_invertor": "Ні",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "200"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
-    ]
-  },
-  {
-    "sku": "0109090001-100445496",
-    "url": "https://nc-clima.in.ua/ncds76ah1me-no76ah3e",
-    "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
-    "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
-    "price": 189000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_invertor": "Ні",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "76"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
-    ]
-  },
-  {
-    "sku": "0109090001-100445498",
-    "url": "https://nc-clima.in.ua/ncds96ah1me-no96ah3e",
-    "title": "Високонапірні канальні кондиціонери серії Power до -7 °C",
-    "meta_description": "Канальний високонапірний кондиціонер NC clima Power до -7°C - відмінне рішення для кондиціонування декількох кімнат або приміщень, в яких інтер'єр і дизайн дуже важливі.",
-    "price": 212000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_invertor": "Ні",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "96"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi-vysokonapornyi/duct-on-off.png"
-    ]
-  },
-  {
-    "sku": "0108100001-100445438",
-    "url": "https://nc-clima.in.ua/ncdsi12eh1eu",
-    "title": "NC clima NCDSI12EH1eu - Внутрішній блок канального типу",
-    "meta_description": "Купити NC clima NCDSI12EH1eu - Канальний внутрішній блок мульти-спліт системи НС кліма на офіційному сайті",
-    "price": 16000,
-    "stock_status": "instock",
-    "categories": [
-      "multy-split-systemy"
-    ],
-    "attributes": {
-      "pa_square": "до 35",
-      "pa_invertor": "Так",
-      "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "12",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/86.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0109090066-100445455",
-    "url": "https://nc-clima.in.ua/ncdsi12eh1eu-noi12eh1eu",
-    "title": "Канальний інверторний кондиціонер NCDSI12EH1eu/NOI12EH1eu",
-    "meta_description": "Кондиціонер неінверторний NC clima NCDSI12EH1eu/NOI12EH1eu купити на офіційному сайт ТМ НС кліма\r\n✅ Потужність 3,8 кВт ✅ Тип: Канальний  ✅ Офіційна гарантія 24 місяці ✅ Вбудований дренажний насос",
-    "price": 52000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_square": "до 35",
-      "pa_invertor": "Так",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "12",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/kolazhnclcacductousmall.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/86-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/1-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/2-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/3-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/59-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/62-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0108100001-100445439",
-    "url": "https://nc-clima.in.ua/ncdsi18eh1eu",
-    "title": "NC clima NCDSI18EH1eu - Внутрішній блок канального типу",
-    "meta_description": "Купити NC clima NCDSI18EH1eu - Канальний внутрішній блок мульти-спліт системи НС кліма на офіційному сайті",
-    "price": 18000,
-    "stock_status": "instock",
-    "categories": [
-      "multy-split-systemy"
-    ],
-    "attributes": {
-      "pa_square": "52",
-      "pa_invertor": "Так",
-      "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "18",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/86.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0109090066-100445456",
-    "url": "https://nc-clima.in.ua/ncdsi18eh1eu-noi18eh1eu",
-    "title": "Канальний інверторний кондиціонер NCDSI18EH1eu/NOI18EH1eu",
-    "meta_description": "Кондиціонер неінверторний NC clima NCDSI18EH1eu/NOI18EH1eu купити на офіційному сайт ТМ НС кліма\r\n✅ Потужність 5,6 кВт ✅ Тип: Канальний  ✅ Офіційна гарантія 24 місяці ✅ Вбудований дренажний насос",
-    "price": 66000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_square": "52",
-      "pa_invertor": "Так",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "18",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/kolazhnclcacductousmall.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/86-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/1-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/2-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/3-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/59-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/62-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0108100001-100445440",
-    "url": "https://nc-clima.in.ua/ncdsi24eh1eu",
-    "title": "NC clima NCDSI24EH1eu - Внутрішній блок канального типу",
-    "meta_description": "Купити NC clima NCDSI24EH1eu - Канальний внутрішній блок мульти-спліт системи НС кліма на офіційному сайті",
-    "price": 21000,
-    "stock_status": "instock",
-    "categories": [
-      "multy-split-systemy"
-    ],
-    "attributes": {
-      "pa_square": "до 70",
-      "pa_invertor": "Так",
-      "pa_typ": "Мульти-спліт системи",
-      "pa_potuzhnist": "24",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/86.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp"
-    ]
-  },
-  {
-    "sku": "0109090066-100445457",
-    "url": "https://nc-clima.in.ua/ncdsi24eh1eu-noi24eh1eu",
-    "title": "Канальний інверторний кондиціонер NCDSI24EH1eu/NOI24EH1eu",
-    "meta_description": "Кондиціонер неінверторний NC clima NCDSI24EH1eu/NOI24EH1eu купити на офіційному сайт ТМ НС кліма\r\n✅ Потужність 7,88 кВт ✅ Тип: Канальний  ✅ Офіційна гарантія 24 місяці ✅ Вбудований дренажний насос",
-    "price": 80000,
-    "stock_status": "instock",
-    "categories": [
-      "napivpromyslovi",
-      "kanalni"
-    ],
-    "attributes": {
-      "pa_square": "до 70",
-      "pa_invertor": "Так",
-      "pa_typ": "Спліт-система",
-      "pa_potuzhnist": "24",
-      "pa_brands": "NC clima"
-    },
-    "images": [
-      "https://nc-clima.in.ua/image/catalog/lcac/kanalnyi/kolazhnclcacductousmall.jpg",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/86-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/45-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/38-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/40-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/39-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/41-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/50-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/43-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/44-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/46-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/47-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/49-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/48-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/51-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/52-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/53-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/55-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/1-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/2-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/zovnashni-bloky/3-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/59-1000x1000.webp",
-      "https://nc-clima.in.ua/image/cache/webp/catalog/lcac/kanalnyi/62-1000x1000.webp"
     ]
   },
   {
@@ -2460,7 +2079,7 @@
     "title": "Кондиціонер NC clima Manchester NCI12EHMIw1eu/NCO12EHMIw1eu",
     "meta_description": "➣➢➣ Інверторний кондиціонер NC clima Manchester NCI/NCO12EHMIw1eu купити ❄ нова модель 2020 г. ✔ нагрівання при -15°С ★ клас енергозбереження А ☀ фреон R32 ☑ доставка по Україні безкоштовна 1-3 дня ϟ фірмова гарантія 2 роки",
     "price": 20999,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "pobutovi-kondytsionery",
       "invertorni",
@@ -2767,7 +2386,7 @@
     "title": "NC clima Birmingham 2.5 NCI18EHBIw1eu2/NCO18EHLIw1eu",
     "meta_description": "➢➢➢  NC clima NCI18EHBIw1eu2/NCO18EHLIw1eu ★ Інверторний кондиціонер ☆ серія Birmingham 2.5 до -25°C  ☑ на приміщення до 52 метрів квадратних ☀ новий екофреон R32 ❆ фірмова гарантія 24 місяці ✔ компресор Toshiba з гарантією 5 років ✈ доставка безкоштовна ",
     "price": 43999,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "pobutovi-kondytsionery",
       "invertorni",
@@ -3767,7 +3386,7 @@
     "title": "Касетний інверторний кондиціонер NCTSI12EH1eu/NOI12EH1eu/NCP-12-18EHeu",
     "meta_description": "Інверторний кондиціонер Nc-clima NCTSI12EH1eu/NOI12EH1eu/NCP-12-18EHeu на офіційному сайт ТМ НС кліма\r\n✅ Потужність 3,52 кВт ✅ Тип: Касетний ✅ R32 Фреон ✅ Офіційна гарантія 24 місяці",
     "price": 57000,
-    "stock_status": "outofstock",
+    "stock_status": "instock",
     "categories": [
       "napivpromyslovi",
       "kasetni"
@@ -4021,7 +3640,7 @@
     "title": "Касетний інверторний кондиціонер NCTSI48EH1eu/NOI48EH3eu/NCP-24-60EHeu",
     "meta_description": "Інверторний кондиціонер Nc-clima NCTSI48EH1eu/NOI48EH3eu/NCP-24-60EHeu на офіційному сайт ТМ НС кліма\r\n✅ Потужність 14,07 кВт ✅ Тип: Касетний ✅ R32 Фреон ✅ Офіційна гарантія 24 місяці",
     "price": 141000,
-    "stock_status": "instock",
+    "stock_status": "outofstock",
     "categories": [
       "napivpromyslovi",
       "kasetni"
